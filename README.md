@@ -1,2 +1,2 @@
-# Lin-reg-project
-Regularized linear model that predicts house prices trained on Ames housing market data set
+# Data science projects
+My projects done for self learning purposes.
